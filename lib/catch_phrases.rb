@@ -10,7 +10,4 @@ def toadstool
 end
 
 def any_pgrase(phrase)
-  do 
-    phrase = "Do A Barrel Roll!"
-  end
 end
